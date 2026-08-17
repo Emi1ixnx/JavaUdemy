@@ -11,7 +11,7 @@ public class OperadoresAsignacion {
         miNumero += 5; // miNumero = miNumero +5; -> 15
         System.out.println("miNumero = " + miNumero);
         // -=; *=, /= y %=
-        miNumero *= 2; // miNumero = miNumero * 2 -> 30
+        miNumero *= 2; // m0i0Numero = miNumero * 2 -> 30
         System.out.println("miNumero = " + miNumero);
 
         // Asignación de variables multiples
